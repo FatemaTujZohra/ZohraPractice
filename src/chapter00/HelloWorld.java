@@ -6,6 +6,8 @@ public class HelloWorld {  //class body starts here
     System.out.println("Hello World");
 	System.out.println("Welcome to Java Programming");
 	System.out.println("Java is interesting");
+	System.out.println("Java is interesting");
+	
 	
 	
 	}//method end here	
