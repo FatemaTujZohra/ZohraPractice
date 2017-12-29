@@ -12,7 +12,7 @@ public class ConditionalStatemetsifelse {
 		
 	
 		else {
-			 System.out.println("You dont get third division");
+			 System.out.println("You don't get first division");
 		 }
 
 	}
